@@ -19,7 +19,7 @@ Maven Java 24 Swing NetBeans project - Construction of charts of currencies of N
   - -> Team -> Commit
   - -> Team -> Remote -> Push
     - Specify Git Repository Location
-        - URL: https://github.com/LiaArtem/CurrencyChartSwing-Java-23-Maven.git
+        - URL: https://github.com/LiaArtem/CurrencyChartSwing-Java-24-Maven.git
         - User: git
         - Password: ghp_****************************
         - Next
