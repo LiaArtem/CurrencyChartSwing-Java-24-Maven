@@ -1,14 +1,14 @@
-# CurrencyChartSwing-Java-23-Maven
-Maven Java 23 Swing NetBeans project - Construction of charts of currencies of NBU on years for watching of tendencies of change.
+# CurrencyChartSwing-Java-24-Maven
+Maven Java 24 Swing NetBeans project - Construction of charts of currencies of NBU on years for watching of tendencies of change.
 
 Відправка до Github
 ---------------------------------------------------------------------------------
 
-У Github створюємо в public repository - CurrencyChartSwing-Java-23-Maven
+У Github створюємо в public repository - CurrencyChartSwing-Java-24-Maven
 - Генеруємо токен:
   - У Github -> Profile -> Settings -> Developer settings (https://github.com/settings/apps) -> Personal access tokens -> Generate new token
     - Note - Netbeans
-    - Expiration - 90 днів
+    - Expiration - 7 днів
     - Вибираємо - repo
     - Generate token
     - Копіюємо код токена
